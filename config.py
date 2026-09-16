@@ -1,5 +1,5 @@
-BOT_TOKEN = "8740204936:AAFeAt5E6SVtAaYcvw7vUJixzpUYtiD5lJ8"
-ADMIN_ID = 8027827133
+BOT_TOKEN = "dhdhfh"
+ADMIN_ID = "your_id"
 start_text = """# ⚡ FLASH — заказ товаров с POIZON
 
 👋 Добро пожаловать в бот **FLASH**!
